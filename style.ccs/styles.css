@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+body {background: rgba(202,141,68,1.00);}
+	{font-size:16px;
+	background:url(images/resort.jpg);
+	background-attachment: fixed;
+	color:#fff;
+}
+header, .main, footer  {
+	background:#fff;
+	width:90%;
+	max-width:1000px
+	margin:auto;	
+}
+
+div {align-content: 
+	font-size:10px;
+	background-color: aqua
+}
+h2 {
+	color:orangered;
+}
+div {
+	width:50%;
+	height:200px;
+	background: #ff8000;
+	margin:20px 50px;
+	padding:30px;
+	border:10px solid #000 ;
+	display:inline-block;
+}
